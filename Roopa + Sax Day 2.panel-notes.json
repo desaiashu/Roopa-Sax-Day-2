@@ -10,15 +10,6 @@
       "y": 2.0
     },
     {
-      "id": "note_roopa_2",
-      "view": "arrangement",
-      "text": "Mic 11 take: slight pitch correction at 5:42",
-      "archived": false,
-      "createdAt": 1783976313068,
-      "x": 171.0,
-      "y": 2.0
-    },
-    {
       "id": "note_roopa_3",
       "view": "arrangement",
       "text": "Mic 15 take: stabilize pitch just slightly at 4:58",
@@ -28,12 +19,12 @@
       "y": 2.0
     },
     {
-      "id": "note_roopa_4",
+      "id": "note_roopa_2",
       "view": "arrangement",
-      "text": "Mic 15 take: stabilize pitch just slightly at 5:50–5:53",
+      "text": "Mic 11 take: slight pitch correction at 5:42",
       "archived": false,
-      "createdAt": 1783976313070,
-      "x": 175.0,
+      "createdAt": 1783976313068,
+      "x": 171.0,
       "y": 2.0
     },
     {
@@ -43,6 +34,15 @@
       "archived": false,
       "createdAt": 1783976313071,
       "x": 197.5,
+      "y": 2.0
+    },
+    {
+      "id": "note_roopa_4",
+      "view": "arrangement",
+      "text": "Mic 15 take: stabilize pitch just slightly at 5:50–5:53",
+      "archived": false,
+      "createdAt": 1783976313070,
+      "x": 175.0,
       "y": 2.0
     },
     {
