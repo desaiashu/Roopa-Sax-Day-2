@@ -515,6 +515,15 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
+    },
+    "gslt": {
+      "id": "gslt",
+      "trackId": "qpo",
+      "typeName": "Abbey Road RS127 Box",
+      "slot": 0,
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }

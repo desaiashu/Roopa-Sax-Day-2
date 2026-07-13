@@ -22,6 +22,7 @@ tracks
     strip tivraStrip
   5 MIDI |qpo
     type midi
+    fx Abbey Road RS127 Box
     strip tivraStrip
 
 returns
