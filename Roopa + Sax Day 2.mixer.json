@@ -105,6 +105,10 @@
     "pwha": {
       "gain": 0.18,
       "muted": false
+    },
+    "zifd": {
+      "gain": 0.18,
+      "muted": false
     }
   },
   "sends": [
