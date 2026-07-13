@@ -113,7 +113,7 @@
       "slot": "channelStrip",
       "enabled": true,
       "state": {
-        "inputGainDb": 0.0,
+        "inputGainDb": 5.1000000000000005,
         "loCutFreq": 16.0,
         "hiCutFreq": 22000.0,
         "eqLowGain": 0.0,
