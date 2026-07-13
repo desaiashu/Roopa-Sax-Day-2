@@ -129,6 +129,10 @@
     "zagc": {
       "gain": 0.1,
       "muted": false
+    },
+    "oxph": {
+      "gain": 0.1,
+      "muted": false
     }
   },
   "sends": [

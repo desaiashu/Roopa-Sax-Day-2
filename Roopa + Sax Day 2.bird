@@ -65,12 +65,16 @@ sec song
           o 140:0
           g 0.18
       lane 4
-        c 0:0 190:0 |zaai
+        c 0:0 158:0 |zaai
           'samples/mic 15 [2026-07-07 211317].aif'
           g 0.10
         c 190:0 2:0 |zagc
           'samples/mic 15 [2026-07-07 211317].aif'
           o 190:0
+          g 0.10
+        c 158:0 32:0 |oxph
+          'samples/mic 15 [2026-07-07 211317].aif'
+          o 158:0
           g 0.10
       lane 5
         c 0:0 192:0 |zaak
