@@ -47,6 +47,18 @@
         "distance": 1.0
       },
       "channelFormat": "stereo"
+    },
+    "qpo": {
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false,
+      "solo": false,
+      "spatial": {
+        "azimuth": 0.0,
+        "elevation": 0.0,
+        "distance": 1.0
+      },
+      "channelFormat": "stereo"
     }
   },
   "clipMix": {
@@ -183,8 +195,32 @@
       "preFader": false
     },
     {
+      "trackId": "qpo",
+      "returnId": "rrz",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "qpo",
+      "returnId": "rxx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "qpo",
+      "returnId": "rgy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "ugb",
       "returnId": "rrz",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "qpo",
+      "returnId": "rug",
       "gain": 0.0,
       "preFader": false
     },

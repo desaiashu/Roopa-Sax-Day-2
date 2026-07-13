@@ -20,6 +20,9 @@ tracks
   4 Backing 05 |lev
     type audio
     strip tivraStrip
+  5 MIDI |qpo
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rrz
