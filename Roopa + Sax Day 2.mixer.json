@@ -109,6 +109,10 @@
     "zifd": {
       "gain": 0.18,
       "muted": false
+    },
+    "mboe": {
+      "gain": 0.18,
+      "muted": false
     }
   },
   "sends": [
