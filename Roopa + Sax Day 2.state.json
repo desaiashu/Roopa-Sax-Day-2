@@ -139,7 +139,7 @@
   },
   "project": {
     "metadata": {
-      "id": "zcextt",
+      "id": "rsbwac",
       "name": "Roopa + Sax Day 2",
       "formatVersion": "2.0.0",
       "createdAt": "",
@@ -152,7 +152,6 @@
       "bufferSize": 512
     },
     "trackAppearance": {},
-    "notes": {},
     "customEditors": {},
     "scriptFxEditors": {},
     "videoFilePath": null
@@ -169,27 +168,27 @@
       "directMonitoring": false
     },
     "appearance": {
-      "theme": "dark"
+      "theme": "system"
     },
     "ai": {
       "aiComfort": 3,
-      "developmentStage": 0,
+      "developmentStage": 2,
       "pluginPreload": "project"
     },
     "workflow": {
       "vibeMode": false,
       "experienceLevel": 3,
       "defaultChannelStrip": null,
-      "pluginMode": "slotsExpanding"
+      "pluginMode": "canvas"
     },
     "playback": {
       "previewVolume": 0.7
     },
     "audioDevices": {
-      "audioOutputDevice": "MacBook Pro Speakers",
-      "audioInputDevice": "MacBook Pro Microphone",
+      "audioOutputDevice": "Default",
+      "audioInputDevice": "None",
       "masterOutputPair": 0
     },
-    "hasApiKey": true
+    "hasApiKey": false
   }
 }
