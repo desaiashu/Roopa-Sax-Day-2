@@ -37,7 +37,7 @@ returns
 sec song
   trk 1 Roopa 04 |ckh
       lane 3
-        c 0:0 155:192 |zaag
+        c 0:0 148:0 |zaag
           'samples/mic 14 [2026-07-07 211313].aif'
           g 0.18
         c 190:192 1:192 |pwha
@@ -55,6 +55,10 @@ sec song
         c 155:192 18:192 |pdwm
           'samples/mic 14 [2026-07-07 211313].aif'
           o 155:192
+          g 0.18
+        c 148:0 7:192 |eelh
+          'samples/mic 14 [2026-07-07 211313].aif'
+          o 148:0
           g 0.18
       lane 4
         c 0:0 192:0 |zaai

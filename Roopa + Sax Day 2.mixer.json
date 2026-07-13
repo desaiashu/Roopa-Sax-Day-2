@@ -117,6 +117,10 @@
     "pdwm": {
       "gain": 0.18,
       "muted": false
+    },
+    "eelh": {
+      "gain": 0.18,
+      "muted": false
     }
   },
   "sends": [
