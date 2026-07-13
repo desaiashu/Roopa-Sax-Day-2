@@ -153,6 +153,10 @@
     "kjfw": {
       "gain": 0.12,
       "muted": false
+    },
+    "rhuq": {
+      "gain": 0.12,
+      "muted": false
     }
   },
   "sends": [

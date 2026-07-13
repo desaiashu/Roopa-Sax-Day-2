@@ -89,7 +89,7 @@ sec song
           o 140:0
           g 0.23
       lane 6
-        c 0:0 113:192 |zaal
+        c 0:0 109:192 |zaal
           'samples/mic 18 [2026-07-07 211328].aif'
           g 0.12
         c 190:192 1:192 |zumb
@@ -103,6 +103,10 @@ sec song
         c 113:192 17:192 |kjfw
           'samples/mic 18 [2026-07-07 211328].aif'
           o 113:192
+          g 0.12
+        c 109:192 4:0 |rhuq
+          'samples/mic 18 [2026-07-07 211328].aif'
+          o 109:192
           g 0.12
   trk 2 Backing 04 |ugb
     c 0:0 189:71 |zaan
