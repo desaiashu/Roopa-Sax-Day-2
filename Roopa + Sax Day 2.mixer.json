@@ -161,6 +161,10 @@
     "vuta": {
       "gain": 0.16,
       "muted": false
+    },
+    "qnye": {
+      "gain": 0.16,
+      "muted": false
     }
   },
   "sends": [
