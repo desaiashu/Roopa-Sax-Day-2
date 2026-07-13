@@ -83,8 +83,6 @@ sec song
     c 0:0 189:71 |zaan
       'samples/BIJAN PONDEROSA Dimitri 2026  04 A Present.wav'
   trk 3 Roopa 05 |act
-    c 120:289 135:78 |zaao
-      'samples/mic 0001 [2026-06-16 131837].aif'
       lane 0
         c 0:0 280:0 |zaap
           'samples/mic 3 [2026-07-07 212727].aif'

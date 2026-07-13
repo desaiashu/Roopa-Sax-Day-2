@@ -389,35 +389,6 @@
         "mode": "eighth"
       }
     },
-    "zaao": {
-      "id": "zaao",
-      "trackId": "act",
-      "name": "mic 0001 [2026-06-16 131837].aif",
-      "startBeat": 483.0104166666667,
-      "lengthBeats": 540.8125,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 0001 [2026-06-16 131837].aif",
-        "sampleRate": 96000.0,
-        "channels": 1,
-        "lengthSamples": 25959168,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
     "zaap": {
       "id": "zaap",
       "trackId": "act",
