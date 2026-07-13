@@ -1,0 +1,244 @@
+{
+  "tracks": {
+    "ckh": {
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false,
+      "solo": false,
+      "spatial": {
+        "azimuth": 0.0,
+        "elevation": 0.0,
+        "distance": 1.0
+      },
+      "channelFormat": "stereo"
+    },
+    "ugb": {
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false,
+      "solo": false,
+      "spatial": {
+        "azimuth": 0.0,
+        "elevation": 0.0,
+        "distance": 1.0
+      },
+      "channelFormat": "stereo"
+    },
+    "act": {
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false,
+      "solo": false,
+      "spatial": {
+        "azimuth": 0.0,
+        "elevation": 0.0,
+        "distance": 1.0
+      },
+      "channelFormat": "stereo"
+    },
+    "lev": {
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false,
+      "solo": false,
+      "spatial": {
+        "azimuth": 0.0,
+        "elevation": 0.0,
+        "distance": 1.0
+      },
+      "channelFormat": "stereo"
+    }
+  },
+  "clipMix": {
+    "zaab": {
+      "gain": 0.16,
+      "muted": false
+    },
+    "zaad": {
+      "gain": 0.14,
+      "muted": false
+    },
+    "zaaf": {
+      "gain": 0.12,
+      "muted": false
+    },
+    "zaag": {
+      "gain": 0.18,
+      "muted": false
+    },
+    "zaai": {
+      "gain": 0.1,
+      "muted": false
+    },
+    "zaak": {
+      "gain": 0.23,
+      "muted": false
+    },
+    "zaal": {
+      "gain": 0.12,
+      "muted": false
+    },
+    "zaap": {
+      "gain": 0.09,
+      "muted": false
+    },
+    "zaaq": {
+      "gain": 0.1,
+      "muted": false
+    },
+    "zaar": {
+      "gain": 0.16,
+      "muted": false
+    },
+    "zaas": {
+      "gain": 0.23,
+      "muted": false
+    },
+    "zaat": {
+      "gain": 0.09,
+      "muted": false
+    },
+    "zaau": {
+      "gain": 0.14,
+      "muted": false
+    }
+  },
+  "sends": [
+    {
+      "trackId": "ckh",
+      "returnId": "rxx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ckh",
+      "returnId": "rug",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ugb",
+      "returnId": "rug",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lev",
+      "returnId": "rug",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ckh",
+      "returnId": "rgy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "act",
+      "returnId": "rrz",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "act",
+      "returnId": "rug",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ckh",
+      "returnId": "rrz",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "act",
+      "returnId": "rgy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "act",
+      "returnId": "rxx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lev",
+      "returnId": "rxx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ugb",
+      "returnId": "rgy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ugb",
+      "returnId": "rxx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ugb",
+      "returnId": "rrz",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lev",
+      "returnId": "rrz",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lev",
+      "returnId": "rgy",
+      "gain": 0.0,
+      "preFader": false
+    }
+  ],
+  "returns": {
+    "rrz": {
+      "id": "rrz",
+      "name": "Hall",
+      "busIndex": 0,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rug": {
+      "id": "rug",
+      "name": "Plate",
+      "busIndex": 1,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rxx": {
+      "id": "rxx",
+      "name": "Delay",
+      "busIndex": 2,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    },
+    "rgy": {
+      "id": "rgy",
+      "name": "Color",
+      "busIndex": 3,
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false
+    }
+  },
+  "master": {
+    "id": "msa",
+    "gain": 1.0,
+    "muted": false,
+    "mono": false
+  }
+}

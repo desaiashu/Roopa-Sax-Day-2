@@ -1,0 +1,116 @@
+sig
+  bpm 120
+  system 12tet western
+  scale C chromatic
+
+arr
+  song 280 |qjq
+
+tracks
+  1 Roopa 04 |ckh
+    type audio
+    strip tivraStrip
+  2 Backing 04 |ugb
+    type audio
+    strip tivraStrip
+  3 Roopa 05 |act
+    type audio
+    strip tivraStrip
+  4 Backing 05 |lev
+    type audio
+    strip tivraStrip
+
+returns
+  0 Hall |rrz
+    fx tivraHall
+    strip tivraStrip
+  1 Plate |rug
+    fx tivraPlate
+    strip tivraStrip
+  2 Delay |rxx
+    fx tivraDelay
+    strip tivraStrip
+  3 Color |rgy
+    fx tivraDistortion
+    strip tivraStrip
+
+sec song
+  trk 1 Roopa 04 |ckh
+    c 105:0 153:184 |zaaa
+      'samples/mic 0001 [2026-06-16 125615].aif'
+      lane 0
+        c 0:0 192:0 |zaab
+          'samples/mic 8 [2026-07-07 211256].aif'
+          g 0.16
+        c 192:0 66:184 |zaac
+          'samples/mic 0001 [2026-06-16 125615].aif'
+          o 87:0
+      lane 1
+        c 0:0 192:0 |zaad
+          'samples/mic 11 [2026-07-07 211302].aif'
+          g 0.14
+        c 192:0 2:154 |zaae
+          'samples/mic 0005 [2026-06-16 130702].aif'
+          o 54:192
+      lane 2
+        c 0:0 192:0 |zaaf
+          'samples/mic 12 [2026-07-07 211308].aif'
+          g 0.12
+      lane 3
+        c 0:0 192:0 |zaag
+          'samples/mic 14 [2026-07-07 211313].aif'
+          g 0.18
+        c 192:0 1:61 |zaah
+          'samples/mic 0007 [2026-06-16 130944].aif'
+          o 59:192
+      lane 4
+        c 0:0 192:0 |zaai
+          'samples/mic 15 [2026-07-07 211317].aif'
+          g 0.10
+        c 192:0 0:220 |zaaj
+          'samples/mic 0012 [2026-06-16 142056].aif'
+          o 52:0
+      lane 5
+        c 0:0 192:0 |zaak
+          'samples/mic 16 [2026-07-07 211323].aif'
+          g 0.23
+      lane 6
+        c 0:0 192:0 |zaal
+          'samples/mic 18 [2026-07-07 211328].aif'
+          g 0.12
+        c 192:0 1:159 |zaam
+          'samples/mic 0011 [2026-06-16 142008].aif'
+          o 92:0
+  trk 2 Backing 04 |ugb
+    c 0:0 189:71 |zaan
+      'samples/BIJAN PONDEROSA Dimitri 2026  04 A Present.wav'
+  trk 3 Roopa 05 |act
+    c 120:289 135:78 |zaao
+      'samples/mic 0001 [2026-06-16 131837].aif'
+      lane 0
+        c 0:0 280:0 |zaap
+          'samples/mic 3 [2026-07-07 212727].aif'
+          g 0.09
+      lane 1
+        c 0:0 280:0 |zaaq
+          'samples/mic 8 [2026-07-07 212735].aif'
+          g 0.10
+      lane 2
+        c 0:0 280:0 |zaar
+          'samples/mic 11 [2026-07-07 212743].aif'
+          g 0.16
+      lane 3
+        c 0:0 280:0 |zaas
+          'samples/mic 13 [2026-07-07 212752].aif'
+          g 0.23
+      lane 4
+        c 0:0 280:0 |zaat
+          'samples/mic 15 [2026-07-07 212800].aif'
+          g 0.09
+      lane 5
+        c 0:0 280:0 |zaau
+          'samples/mic 17 [2026-07-07 212808].aif'
+          g 0.14
+  trk 4 Backing 05 |lev
+    c 0:0 276:320 |zaav
+      'samples/BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav'
