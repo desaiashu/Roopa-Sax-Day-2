@@ -157,6 +157,10 @@
     "rhuq": {
       "gain": 0.12,
       "muted": false
+    },
+    "vuta": {
+      "gain": 0.16,
+      "muted": false
     }
   },
   "sends": [
