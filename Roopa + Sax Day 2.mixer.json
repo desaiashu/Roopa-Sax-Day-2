@@ -145,6 +145,10 @@
     "zumb": {
       "gain": 0.12,
       "muted": false
+    },
+    "kvnx": {
+      "gain": 0.12,
+      "muted": false
     }
   },
   "sends": [
