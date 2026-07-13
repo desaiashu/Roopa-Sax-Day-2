@@ -193,6 +193,10 @@
     "bfwo": {
       "gain": 0.14,
       "muted": false
+    },
+    "shjl": {
+      "gain": 0.14,
+      "muted": false
     }
   },
   "sends": [
