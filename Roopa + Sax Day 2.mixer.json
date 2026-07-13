@@ -113,6 +113,10 @@
     "mboe": {
       "gain": 0.18,
       "muted": false
+    },
+    "pdwm": {
+      "gain": 0.18,
+      "muted": false
     }
   },
   "sends": [
