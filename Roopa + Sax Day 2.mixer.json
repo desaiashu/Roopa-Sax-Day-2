@@ -133,6 +133,10 @@
     "oxph": {
       "gain": 0.1,
       "muted": false
+    },
+    "uxdo": {
+      "gain": 0.23,
+      "muted": false
     }
   },
   "sends": [
