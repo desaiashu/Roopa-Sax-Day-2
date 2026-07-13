@@ -1,34 +1,5 @@
 {
   "clips": {
-    "zaaa": {
-      "id": "zaaa",
-      "trackId": "ckh",
-      "name": "mic 0001 [2026-06-16 125615].aif",
-      "startBeat": 320.0,
-      "lengthBeats": 613.9166666666666,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 0001 [2026-06-16 125615].aif",
-        "sampleRate": 96000.0,
-        "channels": 1,
-        "lengthSamples": 29468160,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
     "zaab": {
       "id": "zaab",
       "trackId": "ckh",

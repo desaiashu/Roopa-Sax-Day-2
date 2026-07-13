@@ -36,8 +36,6 @@ returns
 
 sec song
   trk 1 Roopa 04 |ckh
-    c 80:0 153:184 |zaaa
-      'samples/mic 0001 [2026-06-16 125615].aif'
       lane 0
         c 0:0 192:0 |zaab
           'samples/mic 8 [2026-07-07 211256].aif'
