@@ -497,6 +497,15 @@
         "compSidechain": 0.0
       },
       "sidechainSensitivity": 0.6
+    },
+    "slub": {
+      "id": "slub",
+      "trackId": "act",
+      "typeName": "melodyne",
+      "slot": 0,
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }
