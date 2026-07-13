@@ -137,6 +137,10 @@
     "uxdo": {
       "gain": 0.23,
       "muted": false
+    },
+    "jbvj": {
+      "gain": 0.23,
+      "muted": false
     }
   },
   "sends": [

@@ -77,12 +77,16 @@ sec song
           o 158:0
           g 0.10
       lane 5
-        c 0:0 174:192 |zaak
+        c 0:0 140:0 |zaak
           'samples/mic 16 [2026-07-07 211323].aif'
           g 0.23
         c 174:192 17:192 |uxdo
           'samples/mic 16 [2026-07-07 211323].aif'
           o 174:192
+          g 0.23
+        c 140:0 34:192 |jbvj
+          'samples/mic 16 [2026-07-07 211323].aif'
+          o 140:0
           g 0.23
       lane 6
         c 0:0 192:0 |zaal
