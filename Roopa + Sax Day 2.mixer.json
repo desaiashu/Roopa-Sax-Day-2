@@ -189,6 +189,10 @@
     "cupf": {
       "gain": 0.14,
       "muted": false
+    },
+    "bfwo": {
+      "gain": 0.14,
+      "muted": false
     }
   },
   "sends": [
