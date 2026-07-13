@@ -37,72 +37,32 @@ returns
 sec song
   trk 1 Roopa 04 |ckh
       lane 3
-        c 0:0 140:0 |zaag
-          'samples/mic 14 [2026-07-07 211313].aif'
-          g 0.18
-        c 190:192 1:192 |pwha
-          'samples/mic 14 [2026-07-07 211313].aif'
-          o 190:192
-          g 0.18
         c 180:192 10:0 |zifd
           'samples/mic 14 [2026-07-07 211313].aif'
           o 180:192
           g 0.18
-        c 174:0 6:192 |mboe
-          'samples/mic 14 [2026-07-07 211313].aif'
-          o 174:0
-          g 0.18
         c 155:192 18:192 |pdwm
           'samples/mic 14 [2026-07-07 211313].aif'
           o 155:192
-          g 0.18
-        c 148:0 7:192 |eelh
-          'samples/mic 14 [2026-07-07 211313].aif'
-          o 148:0
           g 0.18
         c 140:0 8:0 |dtst
           'samples/mic 14 [2026-07-07 211313].aif'
           o 140:0
           g 0.18
       lane 4
-        c 0:0 158:0 |zaai
-          'samples/mic 15 [2026-07-07 211317].aif'
-          g 0.10
-        c 190:0 2:0 |zagc
-          'samples/mic 15 [2026-07-07 211317].aif'
-          o 190:0
-          g 0.10
         c 158:0 32:0 |oxph
           'samples/mic 15 [2026-07-07 211317].aif'
           o 158:0
           g 0.10
       lane 5
-        c 0:0 140:0 |zaak
-          'samples/mic 16 [2026-07-07 211323].aif'
-          g 0.23
-        c 174:192 17:192 |uxdo
-          'samples/mic 16 [2026-07-07 211323].aif'
-          o 174:192
-          g 0.23
         c 140:0 34:192 |jbvj
           'samples/mic 16 [2026-07-07 211323].aif'
           o 140:0
           g 0.23
       lane 6
-        c 0:0 109:192 |zaal
-          'samples/mic 18 [2026-07-07 211328].aif'
-          g 0.12
-        c 190:192 1:192 |zumb
-          'samples/mic 18 [2026-07-07 211328].aif'
-          o 190:192
-          g 0.12
         c 131:0 59:192 |kvnx
           'samples/mic 18 [2026-07-07 211328].aif'
           o 131:0
-          g 0.12
-        c 113:192 17:192 |kjfw
-          'samples/mic 18 [2026-07-07 211328].aif'
-          o 113:192
           g 0.12
         c 109:192 4:0 |rhuq
           'samples/mic 18 [2026-07-07 211328].aif'
@@ -113,60 +73,27 @@ sec song
       'samples/BIJAN PONDEROSA Dimitri 2026  04 A Present.wav'
   trk 3 Roopa 05 |act
       lane 2
-        c 0:0 133:192 |zaar
-          'samples/mic 11 [2026-07-07 212743].aif'
-          g 0.16
-        c 240:0 40:0 |vuta
-          'samples/mic 11 [2026-07-07 212743].aif'
-          o 240:0
-          g 0.16
         c 133:192 106:192 |qnye
           'samples/mic 11 [2026-07-07 212743].aif'
           o 133:192
           g 0.16
       lane 4
-        c 0:0 107:192 |zaat
-          'samples/mic 15 [2026-07-07 212800].aif'
-          g 0.09
-        c 235:0 45:0 |nijh
-          'samples/mic 15 [2026-07-07 212800].aif'
-          o 235:0
-          g 0.09
         c 142:0 93:0 |vzuc
           'samples/mic 15 [2026-07-07 212800].aif'
           o 142:0
-          g 0.09
-        c 137:192 4:192 |gibb
-          'samples/mic 15 [2026-07-07 212800].aif'
-          o 137:192
           g 0.09
         c 107:192 30:0 |qont
           'samples/mic 15 [2026-07-07 212800].aif'
           o 107:192
           g 0.09
       lane 5
-        c 0:0 81:0 |zaau
-          'samples/mic 17 [2026-07-07 212808].aif'
-          g 0.14
-        c 233:192 46:192 |mtwu
-          'samples/mic 17 [2026-07-07 212808].aif'
-          o 233:192
-          g 0.14
         c 200:0 33:192 |cupf
           'samples/mic 17 [2026-07-07 212808].aif'
           o 200:0
           g 0.14
-        c 168:192 31:192 |bfwo
-          'samples/mic 17 [2026-07-07 212808].aif'
-          o 168:192
-          g 0.14
         c 141:192 27:0 |shjl
           'samples/mic 17 [2026-07-07 212808].aif'
           o 141:192
-          g 0.14
-        c 134:0 7:192 |sdhz
-          'samples/mic 17 [2026-07-07 212808].aif'
-          o 134:0
           g 0.14
         c 81:0 53:0 |ecaa
           'samples/mic 17 [2026-07-07 212808].aif'
