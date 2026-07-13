@@ -121,6 +121,10 @@
     "eelh": {
       "gain": 0.18,
       "muted": false
+    },
+    "dtst": {
+      "gain": 0.18,
+      "muted": false
     }
   },
   "sends": [
