@@ -95,7 +95,7 @@
       "trackId": "ckh",
       "name": "mic 18 [2026-07-07 211328].aif",
       "startBeat": 0.0,
-      "lengthBeats": 768.0,
+      "lengthBeats": 762.0,
       "offsetBeats": 0.0,
       "source": {
         "type": "Audio",
@@ -558,6 +558,36 @@
       "araBypassed": false,
       "laneIndex": 5,
       "gain": 0.23,
+      "fadeInBeats": 0.0,
+      "fadeOutBeats": 0.0,
+      "fadeCurve": 1.0,
+      "loopEnabled": false,
+      "reversed": false,
+      "swing": {
+        "amount": 0.0,
+        "mode": "eighth"
+      }
+    },
+    "zumb": {
+      "id": "zumb",
+      "trackId": "ckh",
+      "name": "mic 18 [2026-07-07 211328].aif",
+      "startBeat": 762.0,
+      "lengthBeats": 6.0,
+      "offsetBeats": 762.0,
+      "source": {
+        "type": "Audio",
+        "path": "samples/mic 18 [2026-07-07 211328].aif",
+        "sampleRate": 48000.0,
+        "channels": 1,
+        "lengthSamples": 18432000,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpmOrigin": "Inherited"
+      },
+      "araEnabled": false,
+      "araBypassed": false,
+      "laneIndex": 6,
+      "gain": 0.12,
       "fadeInBeats": 0.0,
       "fadeOutBeats": 0.0,
       "fadeCurve": 1.0,

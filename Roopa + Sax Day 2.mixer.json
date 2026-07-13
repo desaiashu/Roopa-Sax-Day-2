@@ -141,6 +141,10 @@
     "jbvj": {
       "gain": 0.23,
       "muted": false
+    },
+    "zumb": {
+      "gain": 0.12,
+      "muted": false
     }
   },
   "sends": [
