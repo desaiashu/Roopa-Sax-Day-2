@@ -149,6 +149,10 @@
     "kvnx": {
       "gain": 0.12,
       "muted": false
+    },
+    "kjfw": {
+      "gain": 0.12,
+      "muted": false
     }
   },
   "sends": [
