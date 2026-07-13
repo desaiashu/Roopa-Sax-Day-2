@@ -197,6 +197,10 @@
     "shjl": {
       "gain": 0.14,
       "muted": false
+    },
+    "sdhz": {
+      "gain": 0.14,
+      "muted": false
     }
   },
   "sends": [
