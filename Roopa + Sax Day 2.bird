@@ -145,7 +145,7 @@ sec song
           o 107:192
           g 0.09
       lane 5
-        c 0:0 134:0 |zaau
+        c 0:0 81:0 |zaau
           'samples/mic 17 [2026-07-07 212808].aif'
           g 0.14
         c 233:192 46:192 |mtwu
@@ -167,6 +167,10 @@ sec song
         c 134:0 7:192 |sdhz
           'samples/mic 17 [2026-07-07 212808].aif'
           o 134:0
+          g 0.14
+        c 81:0 53:0 |ecaa
+          'samples/mic 17 [2026-07-07 212808].aif'
+          o 81:0
           g 0.14
   trk 4 Backing 05 |lev
     c 0:0 276:320 |zaav

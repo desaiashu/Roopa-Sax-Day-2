@@ -201,6 +201,10 @@
     "sdhz": {
       "gain": 0.14,
       "muted": false
+    },
+    "ecaa": {
+      "gain": 0.14,
+      "muted": false
     }
   },
   "sends": [
