@@ -185,6 +185,10 @@
     "mtwu": {
       "gain": 0.14,
       "muted": false
+    },
+    "cupf": {
+      "gain": 0.14,
+      "muted": false
     }
   },
   "sends": [
