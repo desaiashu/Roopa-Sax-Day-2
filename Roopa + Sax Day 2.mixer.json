@@ -101,6 +101,10 @@
     "zaau": {
       "gain": 0.14,
       "muted": false
+    },
+    "pwha": {
+      "gain": 0.18,
+      "muted": false
     }
   },
   "sends": [
