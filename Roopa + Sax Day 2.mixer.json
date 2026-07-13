@@ -177,6 +177,10 @@
     "gibb": {
       "gain": 0.09,
       "muted": false
+    },
+    "qont": {
+      "gain": 0.09,
+      "muted": false
     }
   },
   "sends": [
