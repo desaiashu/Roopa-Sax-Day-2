@@ -7,7 +7,8 @@
       "archived": false,
       "createdAt": 1783976313067,
       "x": 162.0,
-      "y": 2.0
+      "y": 2.0,
+      "laneIndex": 2
     },
     {
       "id": "note_roopa_3",
@@ -16,7 +17,8 @@
       "archived": false,
       "createdAt": 1783976313069,
       "x": 149.0,
-      "y": 2.0
+      "y": 2.0,
+      "laneIndex": 4
     },
     {
       "id": "note_roopa_2",
@@ -25,7 +27,8 @@
       "archived": false,
       "createdAt": 1783976313068,
       "x": 171.0,
-      "y": 2.0
+      "y": 2.0,
+      "laneIndex": 2
     },
     {
       "id": "note_roopa_5",
@@ -34,25 +37,28 @@
       "archived": false,
       "createdAt": 1783976313071,
       "x": 197.5,
-      "y": 2.0
+      "y": 2.0,
+      "laneIndex": 4
     },
     {
       "id": "note_roopa_4",
       "view": "arrangement",
-      "text": "Mic 15 take: stabilize pitch just slightly at 5:50–5:53",
+      "text": "Mic 15 take: stabilize pitch just slightly at 5:50\u20135:53",
       "archived": false,
       "createdAt": 1783976313070,
       "x": 175.0,
-      "y": 2.0
+      "y": 2.0,
+      "laneIndex": 4
     },
     {
       "id": "note_roopa_6",
       "view": "arrangement",
-      "text": "Mic 15 take (4:44–7:50): bump volume/brightness up slightly on Roopa's voice in this section",
+      "text": "Mic 15 take (4:44\u20137:50): bump volume/brightness up slightly on Roopa's voice in this section",
       "archived": false,
       "createdAt": 1783976313072,
       "x": 142.0,
-      "y": 2.0
+      "y": 2.0,
+      "laneIndex": 4
     },
     {
       "id": "note_roopa_7",
@@ -61,7 +67,8 @@
       "archived": false,
       "createdAt": 1783976313073,
       "x": 109.0,
-      "y": 2.0
+      "y": 2.0,
+      "laneIndex": 5
     },
     {
       "id": "note_roopa_8",
@@ -70,12 +77,13 @@
       "archived": false,
       "createdAt": 1783976313074,
       "x": 147.0,
-      "y": 2.0
+      "y": 2.0,
+      "laneIndex": 5
     },
     {
       "id": "note_roopa_9",
       "view": "arrangement",
-      "text": "A Present takes: Roopa didn't hear many pitch issues in these sections — if you hear something, run it by her",
+      "text": "A Present takes: Roopa didn't hear many pitch issues in these sections \u2014 if you hear something, run it by her",
       "archived": false,
       "createdAt": 1783976313075,
       "x": 109.5,
