@@ -108,6 +108,6 @@ sec song
       'samples/BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav'
   trk 5 MIDI |qpo
     c 16:0 16:0 |oggx
-      p _w3 _q q _w12 _h
+      p _w3 _q q _w _q q _w11
         v 100
         n E4
