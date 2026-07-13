@@ -125,7 +125,7 @@ sec song
           o 133:192
           g 0.16
       lane 4
-        c 0:0 142:0 |zaat
+        c 0:0 137:192 |zaat
           'samples/mic 15 [2026-07-07 212800].aif'
           g 0.09
         c 235:0 45:0 |nijh
@@ -135,6 +135,10 @@ sec song
         c 142:0 93:0 |vzuc
           'samples/mic 15 [2026-07-07 212800].aif'
           o 142:0
+          g 0.09
+        c 137:192 4:192 |gibb
+          'samples/mic 15 [2026-07-07 212800].aif'
+          o 137:192
           g 0.09
       lane 5
         c 0:0 280:0 |zaau

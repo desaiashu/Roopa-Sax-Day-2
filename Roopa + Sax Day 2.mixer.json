@@ -173,6 +173,10 @@
     "vzuc": {
       "gain": 0.09,
       "muted": false
+    },
+    "gibb": {
+      "gain": 0.09,
+      "muted": false
     }
   },
   "sends": [
