@@ -169,6 +169,10 @@
     "nijh": {
       "gain": 0.09,
       "muted": false
+    },
+    "vzuc": {
+      "gain": 0.09,
+      "muted": false
     }
   },
   "sends": [

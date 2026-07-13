@@ -184,7 +184,7 @@
       "trackId": "act",
       "name": "mic 15 [2026-07-07 212800].aif",
       "startBeat": 0.0,
-      "lengthBeats": 940.0,
+      "lengthBeats": 568.0,
       "offsetBeats": 0.0,
       "source": {
         "type": "Audio",
@@ -755,6 +755,36 @@
       "startBeat": 940.0,
       "lengthBeats": 180.0,
       "offsetBeats": 940.0,
+      "source": {
+        "type": "Audio",
+        "path": "samples/mic 15 [2026-07-07 212800].aif",
+        "sampleRate": 48000.0,
+        "channels": 1,
+        "lengthSamples": 26880000,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpmOrigin": "Inherited"
+      },
+      "araEnabled": false,
+      "araBypassed": false,
+      "laneIndex": 4,
+      "gain": 0.09,
+      "fadeInBeats": 0.0,
+      "fadeOutBeats": 0.0,
+      "fadeCurve": 1.0,
+      "loopEnabled": false,
+      "reversed": false,
+      "swing": {
+        "amount": 0.0,
+        "mode": "eighth"
+      }
+    },
+    "vzuc": {
+      "id": "vzuc",
+      "trackId": "act",
+      "name": "mic 15 [2026-07-07 212800].aif",
+      "startBeat": 568.0,
+      "lengthBeats": 372.0,
+      "offsetBeats": 568.0,
       "source": {
         "type": "Audio",
         "path": "samples/mic 15 [2026-07-07 212800].aif",
