@@ -138,7 +138,7 @@
         "driveAmount": 0.0,
         "driveTone": 0.0,
         "driveMix": 100.0,
-        "outputGainDb": 0.0,
+        "outputGainDb": 24.0,
         "bassMonoOn": 0.0,
         "bassMonoFreq": 120.0,
         "compKnee": 6.0,
