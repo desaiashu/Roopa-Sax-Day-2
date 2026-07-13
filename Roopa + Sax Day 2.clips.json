@@ -1,155 +1,5 @@
 {
   "clips": {
-    "zaab": {
-      "id": "zaab",
-      "trackId": "ckh",
-      "name": "mic 8 [2026-07-07 211256].aif",
-      "startBeat": 0.0,
-      "lengthBeats": 768.0,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 8 [2026-07-07 211256].aif",
-        "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 0,
-      "gain": 0.16,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaac": {
-      "id": "zaac",
-      "trackId": "ckh",
-      "name": "mic 0001 [2026-06-16 125615].aif",
-      "startBeat": 768.0,
-      "lengthBeats": 265.9166666666667,
-      "offsetBeats": 348.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 0001 [2026-06-16 125615].aif",
-        "sampleRate": 96000.0,
-        "channels": 1,
-        "lengthSamples": 29468160,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 0,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaad": {
-      "id": "zaad",
-      "trackId": "ckh",
-      "name": "mic 11 [2026-07-07 211302].aif",
-      "startBeat": 0.0,
-      "lengthBeats": 768.0,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 11 [2026-07-07 211302].aif",
-        "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 1,
-      "gain": 0.14,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaae": {
-      "id": "zaae",
-      "trackId": "ckh",
-      "name": "mic 0005 [2026-06-16 130702].aif",
-      "startBeat": 768.0,
-      "lengthBeats": 9.604166666666666,
-      "offsetBeats": 218.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 0005 [2026-06-16 130702].aif",
-        "sampleRate": 96000.0,
-        "channels": 1,
-        "lengthSamples": 10925056,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 1,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaaf": {
-      "id": "zaaf",
-      "trackId": "ckh",
-      "name": "mic 12 [2026-07-07 211308].aif",
-      "startBeat": 0.0,
-      "lengthBeats": 768.0,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 12 [2026-07-07 211308].aif",
-        "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 2,
-      "gain": 0.12,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
     "zaag": {
       "id": "zaag",
       "trackId": "ckh",
@@ -180,36 +30,6 @@
         "mode": "eighth"
       }
     },
-    "zaah": {
-      "id": "zaah",
-      "trackId": "ckh",
-      "name": "mic 0007 [2026-06-16 130944].aif",
-      "startBeat": 768.0,
-      "lengthBeats": 4.635416666666667,
-      "offsetBeats": 238.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 0007 [2026-06-16 130944].aif",
-        "sampleRate": 96000.0,
-        "channels": 1,
-        "lengthSamples": 11646464,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 3,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
     "zaai": {
       "id": "zaai",
       "trackId": "ckh",
@@ -230,36 +50,6 @@
       "araBypassed": false,
       "laneIndex": 4,
       "gain": 0.1,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaaj": {
-      "id": "zaaj",
-      "trackId": "ckh",
-      "name": "mic 0012 [2026-06-16 142056].aif",
-      "startBeat": 768.0,
-      "lengthBeats": 2.2916666666666665,
-      "offsetBeats": 208.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 0012 [2026-06-16 142056].aif",
-        "sampleRate": 96000.0,
-        "channels": 1,
-        "lengthSamples": 10094080,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 4,
-      "gain": 1.0,
       "fadeInBeats": 0.0,
       "fadeOutBeats": 0.0,
       "fadeCurve": 1.0,
@@ -330,36 +120,6 @@
         "mode": "eighth"
       }
     },
-    "zaam": {
-      "id": "zaam",
-      "trackId": "ckh",
-      "name": "mic 0011 [2026-06-16 142008].aif",
-      "startBeat": 768.0,
-      "lengthBeats": 5.65625,
-      "offsetBeats": 368.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 0011 [2026-06-16 142008].aif",
-        "sampleRate": 96000.0,
-        "channels": 1,
-        "lengthSamples": 17935360,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 6,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
     "zaan": {
       "id": "zaan",
       "trackId": "ugb",
@@ -379,66 +139,6 @@
       "araEnabled": false,
       "araBypassed": false,
       "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaap": {
-      "id": "zaap",
-      "trackId": "act",
-      "name": "mic 3 [2026-07-07 212727].aif",
-      "startBeat": 0.0,
-      "lengthBeats": 1120.0,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 3 [2026-07-07 212727].aif",
-        "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 0,
-      "gain": 0.09,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaaq": {
-      "id": "zaaq",
-      "trackId": "act",
-      "name": "mic 8 [2026-07-07 212735].aif",
-      "startBeat": 0.0,
-      "lengthBeats": 1120.0,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 8 [2026-07-07 212735].aif",
-        "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 1,
-      "gain": 0.1,
       "fadeInBeats": 0.0,
       "fadeOutBeats": 0.0,
       "fadeCurve": 1.0,
@@ -469,36 +169,6 @@
       "araBypassed": false,
       "laneIndex": 2,
       "gain": 0.16,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaas": {
-      "id": "zaas",
-      "trackId": "act",
-      "name": "mic 13 [2026-07-07 212752].aif",
-      "startBeat": 0.0,
-      "lengthBeats": 1120.0,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/mic 13 [2026-07-07 212752].aif",
-        "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "laneIndex": 3,
-      "gain": 0.23,
       "fadeInBeats": 0.0,
       "fadeOutBeats": 0.0,
       "fadeCurve": 1.0,
