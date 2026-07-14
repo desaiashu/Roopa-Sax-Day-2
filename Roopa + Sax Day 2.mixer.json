@@ -101,6 +101,10 @@
     "ecaa": {
       "gain": 0.14,
       "muted": false
+    },
+    "zaan": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [
