@@ -394,7 +394,7 @@
       "trackId": "act",
       "name": "mic 17 [2026-07-07 212808].aif",
       "startBeat": 324.0,
-      "lengthBeats": 214.0,
+      "lengthBeats": 213.25,
       "offsetBeats": 324.0,
       "source": {
         "type": "Audio",
