@@ -17,7 +17,7 @@
         "id": "ckh",
         "name": "Roopa 04",
         "trackType": "audio",
-        "auditionLane": null,
+        "auditionLane": 4,
         "takeLaneCount": 0,
         "audioFlipped": false,
         "dubState": "empty",
