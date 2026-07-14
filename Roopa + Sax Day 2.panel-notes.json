@@ -88,6 +88,16 @@
       "createdAt": 1783976313075,
       "x": 109.5,
       "y": 0.0
+    },
+    {
+      "id": "note_1783995984230_1",
+      "view": "arrangement",
+      "text": "",
+      "archived": false,
+      "createdAt": 1783995984230,
+      "x": 107.5,
+      "y": 2.0,
+      "laneIndex": 4
     }
   ]
 }

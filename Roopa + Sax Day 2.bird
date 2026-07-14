@@ -92,7 +92,7 @@ sec song
           'samples/mic 15 [2026-07-07 212800].aif'
           o 142:0
           g 0.09
-        c 107:192 30:0 |qont
+        c 107:192 31:0 |qont
           'samples/mic 15 [2026-07-07 212800].aif'
           o 107:192
           g 0.09
