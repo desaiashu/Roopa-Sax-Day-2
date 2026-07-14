@@ -182,9 +182,9 @@
       "id": "jbvj",
       "trackId": "ckh",
       "name": "mic 16 [2026-07-07 211323].aif",
-      "startBeat": 560.0,
-      "lengthBeats": 149.0,
-      "offsetBeats": 560.0,
+      "startBeat": 558.5,
+      "lengthBeats": 150.5,
+      "offsetBeats": 558.5,
       "source": {
         "type": "Audio",
         "path": "samples/mic 16 [2026-07-07 211323].aif",

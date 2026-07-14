@@ -65,9 +65,9 @@ sec song
           o 158:0
           g 0.10
       lane 5
-        c 140:0 37:96 |jbvj
+        c 139:240 37:240 |jbvj
           'samples/mic 16 [2026-07-07 211323].aif'
-          o 140:0
+          o 139:240
           g 0.23
       lane 6
         c 131:0 60:96 |kvnx
