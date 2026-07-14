@@ -1,1 +1,86 @@
-{}
+{
+  "samples/BIJAN PONDEROSA Dimitri 2026  04 A Present.wav": {
+    "sha256": "2571826ccee51a2990330ce16d96d024127516e084fb3ecf6a10139650ca1e01",
+    "bytes": 66745272
+  },
+  "samples/BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav": {
+    "sha256": "e260b9160861d3f0323bf2b00b6bbab84ae25937efac03d976a7e30a3fba7e1e",
+    "bytes": 97668140
+  },
+  "samples/mic 0001 [2026-06-16 125615].aif": {
+    "sha256": "f37a5b9d207c72131d6f31471a98501b7dda92527814c7376fe890bb3b085f16",
+    "bytes": 88404534
+  },
+  "samples/mic 0001 [2026-06-16 131837].aif": {
+    "sha256": "9e92e87e75d3eeaa5e259f057c5d3e3c5611aebf9fa4f6bf2b65e8285a3423f3",
+    "bytes": 77877558
+  },
+  "samples/mic 0005 [2026-06-16 130702].aif": {
+    "sha256": "7a9eb888e1aba8b4a0f36028e7dd86befa1d6b59140c63dcf485fcdde7716f5e",
+    "bytes": 32775222
+  },
+  "samples/mic 0007 [2026-06-16 130944].aif": {
+    "sha256": "648f29f692e6589a758cff50518d77fedf0b9bb1ccec720696f82f2e261fe261",
+    "bytes": 34939446
+  },
+  "samples/mic 0011 [2026-06-16 142008].aif": {
+    "sha256": "4ab771809e66a76ecfd5fd4b477a085c9434f94363a89236357df45b850e5c36",
+    "bytes": 53806134
+  },
+  "samples/mic 0012 [2026-06-16 142056].aif": {
+    "sha256": "f7d2d64abded61e713911e87331769fce27c327ca159c3ca4a9b62b280a0cff4",
+    "bytes": 30282294
+  },
+  "samples/mic 11 [2026-07-07 211302].aif": {
+    "sha256": "9b2ac60478812dea72356b2adf641fcc0b9043dacb878e131e6cbbfb436b9061",
+    "bytes": 55296054
+  },
+  "samples/mic 11 [2026-07-07 212743].aif": {
+    "sha256": "42b67b333698e82735690ea8673a5a402982fe1f5767f428b89b611d783f0909",
+    "bytes": 80640054
+  },
+  "samples/mic 12 [2026-07-07 211308].aif": {
+    "sha256": "c66da781d63d7f87b6e15b9ea11d5d606364a6a6052aea020a65304e1235a43b",
+    "bytes": 55296054
+  },
+  "samples/mic 13 [2026-07-07 212752].aif": {
+    "sha256": "b558b9b295c0153b1e0536143bbed229cd13f9fda3a3b01e33acb1e8a5b9fd57",
+    "bytes": 80640054
+  },
+  "samples/mic 14 [2026-07-07 211313].aif": {
+    "sha256": "24ce657aabbf7f80f421591c92815d074c3a5aa14616ecadf39ec1b1dc00700f",
+    "bytes": 55296054
+  },
+  "samples/mic 15 [2026-07-07 211317].aif": {
+    "sha256": "68442d86f3763b5eecd7da52f3ed0abe22e2ac03d9c385fbe088241a7c6b4d8d",
+    "bytes": 55296054
+  },
+  "samples/mic 15 [2026-07-07 212800].aif": {
+    "sha256": "8e93fe9c7ed297336cdc340580e9c9fc02e2e608e649b1b2f622bb4a724ba2f5",
+    "bytes": 80640054
+  },
+  "samples/mic 16 [2026-07-07 211323].aif": {
+    "sha256": "14942612a76c2782fc648aff062bb646f26fa84c88d7246fdb7c5393258d6d9c",
+    "bytes": 55296054
+  },
+  "samples/mic 17 [2026-07-07 212808].aif": {
+    "sha256": "c8901f044b7a06d2754869c42d422a8fd1aea32472aa52c8777b36308174ad59",
+    "bytes": 80640054
+  },
+  "samples/mic 18 [2026-07-07 211328].aif": {
+    "sha256": "36e6b8cbbf681fafed6bc4316f4ce2abb9cadf709849426abe6b9139c3a2ba74",
+    "bytes": 55296054
+  },
+  "samples/mic 3 [2026-07-07 212727].aif": {
+    "sha256": "3e4234b52d6e2206999fef6174a5dd92f6558b1417a1cb4d95133b200228fdf9",
+    "bytes": 80640054
+  },
+  "samples/mic 8 [2026-07-07 211256].aif": {
+    "sha256": "806382dd805e0c4673d8f9785b4c240a87fa93c81b57ea70e1646e26eb661a88",
+    "bytes": 55296054
+  },
+  "samples/mic 8 [2026-07-07 212735].aif": {
+    "sha256": "a4ed0c3592a676b4e557c10c3d7ac6ca2bb71a00d57bf7f4e6ab98810e26118f",
+    "bytes": 80640054
+  }
+}
