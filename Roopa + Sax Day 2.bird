@@ -55,9 +55,9 @@ sec song
           'samples/mic 14 [2026-07-07 211313].aif'
           o 155:192
           g 0.18
-        c 139:336 8:48 |dtst
+        c 139:348 8:36 |dtst
           'samples/mic 14 [2026-07-07 211313].aif'
-          o 139:336
+          o 139:348
           g 0.18
       lane 4
         c 158:0 32:0 |oxph
