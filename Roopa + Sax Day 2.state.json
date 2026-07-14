@@ -183,7 +183,7 @@
     },
     "ai": {
       "aiComfort": 3,
-      "developmentStage": 2,
+      "developmentStage": 1,
       "pluginPreload": "project"
     },
     "workflow": {

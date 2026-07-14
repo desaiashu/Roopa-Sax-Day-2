@@ -533,6 +533,15 @@
         }
       },
       "sidechainSensitivity": 0.6
+    },
+    "yali": {
+      "id": "yali",
+      "trackId": "act",
+      "typeName": "melodyne",
+      "slot": 0,
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }

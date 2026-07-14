@@ -16,6 +16,7 @@ tracks
   3 Roopa 05 |act
     type audio
     fx melodyne
+    fx melodyne
     strip tivraStrip
   4 Backing 05 |lev
     type audio
