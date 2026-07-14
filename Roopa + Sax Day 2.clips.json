@@ -62,9 +62,9 @@
       "id": "zifd",
       "trackId": "ckh",
       "name": "mic 14 [2026-07-07 211313].aif",
-      "startBeat": 722.0,
-      "lengthBeats": 40.0,
-      "offsetBeats": 722.0,
+      "startBeat": 720.0,
+      "lengthBeats": 42.0,
+      "offsetBeats": 720.0,
       "source": {
         "type": "Audio",
         "path": "samples/mic 14 [2026-07-07 211313].aif",
