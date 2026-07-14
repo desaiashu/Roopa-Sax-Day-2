@@ -1,63 +1,5 @@
 {
   "clips": {
-    "zaan": {
-      "id": "zaan",
-      "trackId": "ugb",
-      "name": "BIJAN PONDEROSA Dimitri 2026  04 A Present.wav",
-      "startBeat": 0.0,
-      "lengthBeats": 756.7360090702948,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/BIJAN PONDEROSA Dimitri 2026  04 A Present.wav",
-        "sampleRate": 44100.0,
-        "channels": 2,
-        "lengthSamples": 16686029,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
-    "zaav": {
-      "id": "zaav",
-      "trackId": "lev",
-      "name": "BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav",
-      "startBeat": 0.0,
-      "lengthBeats": 1107.3333333333333,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav",
-        "sampleRate": 44100.0,
-        "channels": 2,
-        "lengthSamples": 24416746,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
     "zifd": {
       "id": "zifd",
       "trackId": "ckh",
@@ -69,8 +11,8 @@
         "type": "Audio",
         "path": "samples/mic 14 [2026-07-07 211313].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -99,8 +41,8 @@
         "type": "Audio",
         "path": "samples/mic 14 [2026-07-07 211313].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -129,8 +71,8 @@
         "type": "Audio",
         "path": "samples/mic 14 [2026-07-07 211313].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -159,8 +101,8 @@
         "type": "Audio",
         "path": "samples/mic 15 [2026-07-07 211317].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -189,8 +131,8 @@
         "type": "Audio",
         "path": "samples/mic 16 [2026-07-07 211323].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -219,8 +161,8 @@
         "type": "Audio",
         "path": "samples/mic 18 [2026-07-07 211328].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -249,8 +191,8 @@
         "type": "Audio",
         "path": "samples/mic 18 [2026-07-07 211328].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 18432000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -258,6 +200,35 @@
       "araBypassed": false,
       "laneIndex": 6,
       "gain": 0.12,
+      "fadeInBeats": 0.0,
+      "fadeOutBeats": 0.0,
+      "fadeCurve": 1.0,
+      "loopEnabled": false,
+      "reversed": false,
+      "swing": {
+        "amount": 0.0,
+        "mode": "eighth"
+      }
+    },
+    "zaan": {
+      "id": "zaan",
+      "trackId": "ugb",
+      "name": "BIJAN PONDEROSA Dimitri 2026  04 A Present.wav",
+      "startBeat": 0.0,
+      "lengthBeats": 756.7395833333334,
+      "offsetBeats": 0.0,
+      "source": {
+        "type": "Audio",
+        "path": "samples/BIJAN PONDEROSA Dimitri 2026  04 A Present.wav",
+        "sampleRate": 48000.0,
+        "channels": 2,
+        "lengthSamples": 0,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpmOrigin": "Inherited"
+      },
+      "araEnabled": false,
+      "araBypassed": false,
+      "gain": 1.0,
       "fadeInBeats": 0.0,
       "fadeOutBeats": 0.0,
       "fadeCurve": 1.0,
@@ -279,12 +250,12 @@
         "type": "Audio",
         "path": "samples/mic 11 [2026-07-07 212743].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
-        "timeStretchMode": "Ara",
+        "channels": 2,
+        "lengthSamples": 0,
+        "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": true,
+      "araEnabled": false,
       "araBypassed": false,
       "laneIndex": 2,
       "gain": 0.16,
@@ -309,12 +280,12 @@
         "type": "Audio",
         "path": "samples/mic 15 [2026-07-07 212800].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
-        "timeStretchMode": "Ara",
+        "channels": 2,
+        "lengthSamples": 0,
+        "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": true,
+      "araEnabled": false,
       "araBypassed": false,
       "laneIndex": 4,
       "gain": 0.09,
@@ -339,8 +310,8 @@
         "type": "Audio",
         "path": "samples/mic 15 [2026-07-07 212800].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -369,8 +340,8 @@
         "type": "Audio",
         "path": "samples/mic 17 [2026-07-07 212808].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
+        "channels": 2,
+        "lengthSamples": 0,
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
@@ -399,15 +370,15 @@
         "type": "Audio",
         "path": "samples/mic 17 [2026-07-07 212808].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
-        "timeStretchMode": "Ara",
+        "channels": 2,
+        "lengthSamples": 0,
+        "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": true,
+      "araEnabled": false,
       "araBypassed": false,
       "laneIndex": 5,
-      "gain": 0.14,
+      "gain": 0.09,
       "fadeInBeats": 0.0,
       "fadeOutBeats": 0.0,
       "fadeCurve": 1.0,
@@ -429,12 +400,12 @@
         "type": "Audio",
         "path": "samples/mic 17 [2026-07-07 212808].aif",
         "sampleRate": 48000.0,
-        "channels": 1,
-        "lengthSamples": 26880000,
-        "timeStretchMode": "Ara",
+        "channels": 2,
+        "lengthSamples": 0,
+        "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": true,
+      "araEnabled": false,
       "araBypassed": false,
       "laneIndex": 5,
       "gain": 0.14,
@@ -448,33 +419,21 @@
         "mode": "eighth"
       }
     },
-    "oggx": {
-      "id": "oggx",
-      "trackId": "qpo",
-      "name": "MIDI",
-      "startBeat": 64.0,
-      "lengthBeats": 64.0,
+    "zaav": {
+      "id": "zaav",
+      "trackId": "lev",
+      "name": "BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav",
+      "startBeat": 0.0,
+      "lengthBeats": 1107.3333333333333,
       "offsetBeats": 0.0,
       "source": {
-        "type": "Midi",
-        "notes": [
-          {
-            "id": "tk1pav",
-            "note": 64,
-            "velocity": 100,
-            "beat": 13.0,
-            "durationBeats": 1.0,
-            "channel": 0
-          },
-          {
-            "id": "lj58yl",
-            "note": 64,
-            "velocity": 100,
-            "beat": 19.0,
-            "durationBeats": 1.0,
-            "channel": 0
-          }
-        ]
+        "type": "Audio",
+        "path": "samples/BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav",
+        "sampleRate": 48000.0,
+        "channels": 2,
+        "lengthSamples": 0,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpmOrigin": "Inherited"
       },
       "araEnabled": false,
       "araBypassed": false,
@@ -490,18 +449,5 @@
       }
     }
   },
-  "clipPlugins": {
-    "qnye": [
-      "slub"
-    ],
-    "vzuc": [
-      "yali"
-    ],
-    "ecaa": [
-      "dusz"
-    ],
-    "shjl": [
-      "omhu"
-    ]
-  }
+  "clipPlugins": {}
 }

@@ -1,34 +1,14 @@
 {
   "notes": [
     {
-      "id": "note_roopa_1",
+      "id": "note_roopa_7",
       "view": "arrangement",
-      "text": "Mic 11 take: slight pitch correction at 5:24",
+      "text": "Mic 17 take: pitch correction at 3:38",
       "archived": false,
-      "createdAt": 1783976313067,
-      "x": 162.0,
+      "createdAt": 1783976313073,
+      "x": 109.0,
       "y": 2.0,
-      "laneIndex": 2
-    },
-    {
-      "id": "note_roopa_3",
-      "view": "arrangement",
-      "text": "Mic 15 take: stabilize pitch just slightly at 4:58",
-      "archived": false,
-      "createdAt": 1783976313069,
-      "x": 149.0,
-      "y": 2.0,
-      "laneIndex": 4
-    },
-    {
-      "id": "note_roopa_2",
-      "view": "arrangement",
-      "text": "Mic 11 take: slight pitch correction at 5:42",
-      "archived": false,
-      "createdAt": 1783976313068,
-      "x": 171.0,
-      "y": 2.0,
-      "laneIndex": 2
+      "laneIndex": 5
     },
     {
       "id": "note_roopa_5",
@@ -51,34 +31,24 @@
       "laneIndex": 4
     },
     {
-      "id": "note_roopa_6",
+      "id": "note_1783995984230_1",
       "view": "arrangement",
-      "text": "Mic 15 take (4:44–7:50): bump volume/brightness up slightly on Roopa's voice in this section",
+      "text": "",
       "archived": false,
-      "createdAt": 1783976313072,
-      "x": 142.0,
+      "createdAt": 1783995984230,
+      "x": 107.5,
       "y": 2.0,
       "laneIndex": 4
     },
     {
-      "id": "note_roopa_7",
+      "id": "note_roopa_3",
       "view": "arrangement",
-      "text": "Mic 17 take: pitch correction at 3:38",
+      "text": "Mic 15 take: stabilize pitch just slightly at 4:58",
       "archived": false,
-      "createdAt": 1783976313073,
-      "x": 109.0,
+      "createdAt": 1783976313069,
+      "x": 149.0,
       "y": 2.0,
-      "laneIndex": 5
-    },
-    {
-      "id": "note_roopa_8",
-      "view": "arrangement",
-      "text": "Mic 17 take: slight pitch correction at 4:54",
-      "archived": false,
-      "createdAt": 1783976313074,
-      "x": 147.0,
-      "y": 2.0,
-      "laneIndex": 5
+      "laneIndex": 4
     },
     {
       "id": "note_roopa_9",
@@ -90,14 +60,44 @@
       "y": 0.0
     },
     {
-      "id": "note_1783995984230_1",
+      "id": "note_roopa_2",
       "view": "arrangement",
-      "text": "",
+      "text": "Mic 11 take: slight pitch correction at 5:42",
       "archived": false,
-      "createdAt": 1783995984230,
-      "x": 107.5,
+      "createdAt": 1783976313068,
+      "x": 171.0,
+      "y": 2.0,
+      "laneIndex": 2
+    },
+    {
+      "id": "note_roopa_1",
+      "view": "arrangement",
+      "text": "Mic 11 take: slight pitch correction at 5:24",
+      "archived": false,
+      "createdAt": 1783976313067,
+      "x": 162.0,
+      "y": 2.0,
+      "laneIndex": 2
+    },
+    {
+      "id": "note_roopa_6",
+      "view": "arrangement",
+      "text": "Mic 15 take (4:44–7:50): bump volume/brightness up slightly on Roopa's voice in this section",
+      "archived": false,
+      "createdAt": 1783976313072,
+      "x": 142.0,
       "y": 2.0,
       "laneIndex": 4
+    },
+    {
+      "id": "note_roopa_8",
+      "view": "arrangement",
+      "text": "Mic 17 take: slight pitch correction at 4:54",
+      "archived": false,
+      "createdAt": 1783976313074,
+      "x": 147.0,
+      "y": 2.0,
+      "laneIndex": 5
     }
   ]
 }
