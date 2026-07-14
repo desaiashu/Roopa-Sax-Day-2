@@ -60,7 +60,7 @@ sec song
           o 139:348
           g 0.18
       lane 4
-        c 158:0 32:0 |oxph
+        c 158:0 33:0 |oxph
           'samples/mic 15 [2026-07-07 211317].aif'
           o 158:0
           g 0.10
