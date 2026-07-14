@@ -212,9 +212,9 @@
       "id": "kvnx",
       "trackId": "ckh",
       "name": "mic 18 [2026-07-07 211328].aif",
-      "startBeat": 524.0,
-      "lengthBeats": 241.0,
-      "offsetBeats": 524.0,
+      "startBeat": 523.0,
+      "lengthBeats": 242.0,
+      "offsetBeats": 523.0,
       "source": {
         "type": "Audio",
         "path": "samples/mic 18 [2026-07-07 211328].aif",

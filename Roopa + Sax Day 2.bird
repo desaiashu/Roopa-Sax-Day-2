@@ -70,9 +70,9 @@ sec song
           o 139:240
           g 0.23
       lane 6
-        c 131:0 60:96 |kvnx
+        c 130:288 60:192 |kvnx
           'samples/mic 18 [2026-07-07 211328].aif'
-          o 131:0
+          o 130:288
           g 0.12
         c 109:192 4:0 |rhuq
           'samples/mic 18 [2026-07-07 211328].aif'
