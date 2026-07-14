@@ -21,3 +21,4 @@ videos/**/*.mov
 videos/**/*.webm
 .meta/
 *.ptr
+exports/
