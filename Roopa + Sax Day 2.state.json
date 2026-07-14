@@ -53,16 +53,6 @@
         "dubState": "empty",
         "audioTakeLaneCount": 0
       },
-      "qpo": {
-        "id": "qpo",
-        "name": "MIDI",
-        "trackType": "midi",
-        "auditionLane": null,
-        "takeLaneCount": 0,
-        "audioFlipped": false,
-        "dubState": "empty",
-        "audioTakeLaneCount": 0
-      },
       "rrz": {
         "id": "rrz",
         "name": "Hall",
@@ -109,7 +99,6 @@
       "ugb",
       "act",
       "lev",
-      "qpo",
       "rrz",
       "rug",
       "rxx",

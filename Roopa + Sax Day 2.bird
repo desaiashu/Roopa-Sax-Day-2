@@ -29,10 +29,6 @@ tracks
   4 Backing 05 |lev
     type audio
     strip tivraStrip
-  5 MIDI |qpo
-    type midi
-    fx Abbey Road RS127 Box
-    strip tivraStrip
 
 returns
   0 Hall |rrz
@@ -116,8 +112,3 @@ sec song
   trk 4 Backing 05 |lev
     c 0:0 276:320 |zaav
       'samples/BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav'
-  trk 5 MIDI |qpo
-    c 16:0 16:0 |oggx
-      p _w3 _q q _w _q q _w11
-        v 100
-        n E4
