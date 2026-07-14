@@ -167,7 +167,7 @@
       "enabled": true,
       "state": {
         "inputGainDb": 0.0,
-        "loCutFreq": 38.0,
+        "loCutFreq": 46.0,
         "hiCutFreq": 22000.0,
         "eqLowGain": 0.0,
         "eqLowFreq": 100.0,
