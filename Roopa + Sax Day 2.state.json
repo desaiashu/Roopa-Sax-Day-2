@@ -37,7 +37,7 @@
         "id": "act",
         "name": "Roopa 05",
         "trackType": "audio",
-        "auditionLane": 4,
+        "auditionLane": null,
         "takeLaneCount": 0,
         "audioFlipped": false,
         "dubState": "empty",
@@ -47,6 +47,16 @@
         "id": "lev",
         "name": "Backing 05",
         "trackType": "audio",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "qpo": {
+        "id": "qpo",
+        "name": "MIDI",
+        "trackType": "midi",
         "auditionLane": null,
         "takeLaneCount": 0,
         "audioFlipped": false,
@@ -92,16 +102,6 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
-      },
-      "qpo": {
-        "id": "qpo",
-        "name": "MIDI",
-        "trackType": "midi",
-        "auditionLane": null,
-        "takeLaneCount": 0,
-        "audioFlipped": false,
-        "dubState": "empty",
-        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -109,11 +109,11 @@
       "ugb",
       "act",
       "lev",
+      "qpo",
       "rrz",
       "rug",
       "rxx",
-      "rgy",
-      "qpo"
+      "rgy"
     ],
     "sections": {
       "qjq": {
@@ -150,7 +150,7 @@
   },
   "project": {
     "metadata": {
-      "id": "ngfasp",
+      "id": "petnzd",
       "name": "Roopa + Sax Day 2",
       "formatVersion": "2.0.0",
       "createdAt": "",
@@ -183,7 +183,7 @@
     },
     "ai": {
       "aiComfort": 3,
-      "developmentStage": 1,
+      "developmentStage": 2,
       "pluginPreload": "project"
     },
     "workflow": {
