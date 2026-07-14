@@ -17,7 +17,7 @@
         "id": "ckh",
         "name": "Roopa 04",
         "trackType": "audio",
-        "auditionLane": 5,
+        "auditionLane": null,
         "takeLaneCount": 0,
         "audioFlipped": false,
         "dubState": "empty",
@@ -37,7 +37,7 @@
         "id": "act",
         "name": "Roopa 05",
         "trackType": "audio",
-        "auditionLane": 4,
+        "auditionLane": null,
         "takeLaneCount": 0,
         "audioFlipped": false,
         "dubState": "empty",
@@ -139,7 +139,7 @@
   },
   "project": {
     "metadata": {
-      "id": "patcwk",
+      "id": "mjxrpf",
       "name": "Roopa + Sax Day 2",
       "formatVersion": "2.0.0",
       "createdAt": "",
