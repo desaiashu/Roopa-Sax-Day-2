@@ -302,9 +302,9 @@
       "id": "vzuc",
       "trackId": "act",
       "name": "mic 15 [2026-07-07 212800].aif",
-      "startBeat": 568.0,
-      "lengthBeats": 372.0,
-      "offsetBeats": 568.0,
+      "startBeat": 566.0,
+      "lengthBeats": 374.0,
+      "offsetBeats": 566.0,
       "source": {
         "type": "Audio",
         "path": "samples/mic 15 [2026-07-07 212800].aif",
