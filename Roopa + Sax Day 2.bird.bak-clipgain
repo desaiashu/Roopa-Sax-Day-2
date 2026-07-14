@@ -50,27 +50,34 @@ sec song
         c 180:0 11:96 |zifd
           'samples/mic 14 [2026-07-07 211313].aif'
           o 180:0
+          g 0.18
         c 155:288 19:48 |pdwm
           'samples/mic 14 [2026-07-07 211313].aif'
           o 155:288
+          g 0.18
         c 139:348 8:12 |dtst
           'samples/mic 14 [2026-07-07 211313].aif'
           o 139:348
+          g 0.18
       lane 4
         c 158:0 33:0 |oxph
           'samples/mic 15 [2026-07-07 211317].aif'
           o 158:0
+          g 0.10
       lane 5
         c 139:240 37:240 |jbvj
           'samples/mic 16 [2026-07-07 211323].aif'
           o 139:240
+          g 0.23
       lane 6
         c 130:288 60:192 |kvnx
           'samples/mic 18 [2026-07-07 211328].aif'
           o 130:288
+          g 0.12
         c 109:96 4:288 |rhuq
           'samples/mic 18 [2026-07-07 211328].aif'
           o 109:96
+          g 0.12
   trk 2 Backing 04 |ugb
     c 0:0 189:71 |zaan
       'samples/BIJAN PONDEROSA Dimitri 2026  04 A Present.wav'
@@ -79,23 +86,29 @@ sec song
         c 133:72 108:0 |qnye
           'samples/mic 11 [2026-07-07 212743].aif'
           o 133:72
+          g 0.16
       lane 4
         c 141:192 93:192 |vzuc
           'samples/mic 15 [2026-07-07 212800].aif'
           o 141:192
+          g 0.09
         c 107:96 31:96 |qont
           'samples/mic 15 [2026-07-07 212800].aif'
           o 107:96
+          g 0.09
       lane 5
         c 200:0 35:0 |cupf
           'samples/mic 17 [2026-07-07 212808].aif'
           o 200:0
+          g 0.14
         c 141:192 27:0 |shjl
           'samples/mic 17 [2026-07-07 212808].aif'
           o 141:192
+          g 0.14
         c 81:0 53:120 |ecaa
           'samples/mic 17 [2026-07-07 212808].aif'
           o 81:0
+          g 0.14
   trk 4 Backing 05 |lev
     c 0:0 276:320 |zaav
       'samples/BIJAN PONDEROSA Dimitri 2026 05 While The I Is Shining-06.wav'

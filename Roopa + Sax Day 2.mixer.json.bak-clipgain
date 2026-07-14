@@ -49,89 +49,70 @@
       "channelFormat": "stereo"
     }
   },
-  "clipMix": {},
+  "clipMix": {
+    "zifd": {
+      "gain": 0.18,
+      "muted": false
+    },
+    "pdwm": {
+      "gain": 0.18,
+      "muted": false
+    },
+    "dtst": {
+      "gain": 0.18,
+      "muted": false
+    },
+    "oxph": {
+      "gain": 0.1,
+      "muted": false
+    },
+    "jbvj": {
+      "gain": 0.23,
+      "muted": false
+    },
+    "kvnx": {
+      "gain": 0.12,
+      "muted": false
+    },
+    "rhuq": {
+      "gain": 0.12,
+      "muted": false
+    },
+    "qnye": {
+      "gain": 0.16,
+      "muted": false
+    },
+    "vzuc": {
+      "gain": 0.09,
+      "muted": false
+    },
+    "qont": {
+      "gain": 0.09,
+      "muted": false
+    },
+    "cupf": {
+      "gain": 0.14,
+      "muted": false
+    },
+    "shjl": {
+      "gain": 0.14,
+      "muted": false
+    },
+    "ecaa": {
+      "gain": 0.14,
+      "muted": false
+    }
+  },
   "sends": [
     {
-      "trackId": "act",
-      "returnId": "rrz",
-      "gain": 0.36014578,
-      "preFader": false
-    },
-    {
       "trackId": "lev",
-      "returnId": "rug",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "ugb",
-      "returnId": "rug",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "act",
-      "returnId": "rgy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "ckh",
-      "returnId": "rxx",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "ckh",
-      "returnId": "rug",
-      "gain": 0.46957278,
-      "preFader": false
-    },
-    {
-      "trackId": "lev",
-      "returnId": "rgy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "act",
-      "returnId": "rug",
-      "gain": 0.46957278,
-      "preFader": false
-    },
-    {
-      "trackId": "act",
       "returnId": "rxx",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "ugb",
-      "returnId": "rrz",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "ugb",
       "returnId": "rgy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "lev",
-      "returnId": "rrz",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "ckh",
-      "returnId": "rgy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "lev",
-      "returnId": "rxx",
       "gain": 0.0,
       "preFader": false
     },
@@ -143,8 +124,80 @@
     },
     {
       "trackId": "ugb",
+      "returnId": "rug",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "act",
+      "returnId": "rug",
+      "gain": 0.46957278,
+      "preFader": false
+    },
+    {
+      "trackId": "ugb",
+      "returnId": "rrz",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ckh",
       "returnId": "rxx",
       "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "act",
+      "returnId": "rxx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "act",
+      "returnId": "rgy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "act",
+      "returnId": "rrz",
+      "gain": 0.36014578,
+      "preFader": false
+    },
+    {
+      "trackId": "lev",
+      "returnId": "rgy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lev",
+      "returnId": "rrz",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ugb",
+      "returnId": "rxx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ckh",
+      "returnId": "rgy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lev",
+      "returnId": "rug",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "ckh",
+      "returnId": "rug",
+      "gain": 0.46957278,
       "preFader": false
     }
   ],
@@ -183,7 +236,7 @@
     }
   },
   "master": {
-    "id": "mbu",
+    "id": "mdv",
     "gain": 1.0,
     "muted": false,
     "mono": false
