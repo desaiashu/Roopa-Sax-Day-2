@@ -70,7 +70,7 @@ sec song
           o 140:0
           g 0.23
       lane 6
-        c 131:0 59:192 |kvnx
+        c 131:0 60:96 |kvnx
           'samples/mic 18 [2026-07-07 211328].aif'
           o 131:0
           g 0.12
