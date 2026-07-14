@@ -127,7 +127,7 @@
         "eqHighGain": 0.0,
         "eqHighFreq": 8000.0,
         "transientAttack": 0.0,
-        "transientSustain": 0.0,
+        "transientSustain": -2.0,
         "compThreshold": 0.0,
         "compRatio": 1.0,
         "compAttack": 10.0,
