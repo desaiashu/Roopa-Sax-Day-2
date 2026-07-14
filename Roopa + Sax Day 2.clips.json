@@ -401,10 +401,10 @@
         "sampleRate": 48000.0,
         "channels": 1,
         "lengthSamples": 26880000,
-        "timeStretchMode": "Signalsmith",
+        "timeStretchMode": "Ara",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": false,
+      "araEnabled": true,
       "araBypassed": false,
       "laneIndex": 5,
       "gain": 0.14,
@@ -499,6 +499,9 @@
     ],
     "ecaa": [
       "dusz"
+    ],
+    "shjl": [
+      "omhu"
     ]
   }
 }
