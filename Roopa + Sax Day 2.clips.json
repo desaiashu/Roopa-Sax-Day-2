@@ -122,9 +122,9 @@
       "id": "dtst",
       "trackId": "ckh",
       "name": "mic 14 [2026-07-07 211313].aif",
-      "startBeat": 560.0,
-      "lengthBeats": 32.0,
-      "offsetBeats": 560.0,
+      "startBeat": 559.5,
+      "lengthBeats": 32.5,
+      "offsetBeats": 559.5,
       "source": {
         "type": "Audio",
         "path": "samples/mic 14 [2026-07-07 211313].aif",
