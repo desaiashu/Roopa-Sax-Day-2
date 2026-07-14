@@ -542,6 +542,15 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
+    },
+    "dusz": {
+      "id": "dusz",
+      "trackId": "act",
+      "typeName": "melodyne",
+      "slot": 0,
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }
