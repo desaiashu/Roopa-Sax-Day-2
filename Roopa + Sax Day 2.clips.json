@@ -92,9 +92,9 @@
       "id": "pdwm",
       "trackId": "ckh",
       "name": "mic 14 [2026-07-07 211313].aif",
-      "startBeat": 622.0,
-      "lengthBeats": 74.0,
-      "offsetBeats": 622.0,
+      "startBeat": 623.0,
+      "lengthBeats": 73.0,
+      "offsetBeats": 623.0,
       "source": {
         "type": "Audio",
         "path": "samples/mic 14 [2026-07-07 211313].aif",
