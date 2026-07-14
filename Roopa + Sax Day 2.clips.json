@@ -255,7 +255,7 @@
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": false,
+      "araEnabled": true,
       "araBypassed": false,
       "laneIndex": 2,
       "gain": 1.0,
@@ -285,7 +285,7 @@
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": false,
+      "araEnabled": true,
       "araBypassed": false,
       "laneIndex": 4,
       "gain": 1.0,
@@ -375,7 +375,7 @@
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": false,
+      "araEnabled": true,
       "araBypassed": false,
       "laneIndex": 5,
       "gain": 1.0,
@@ -405,7 +405,7 @@
         "timeStretchMode": "Signalsmith",
         "sourceBpmOrigin": "Inherited"
       },
-      "araEnabled": false,
+      "araEnabled": true,
       "araBypassed": false,
       "laneIndex": 5,
       "gain": 1.0,
@@ -449,5 +449,18 @@
       }
     }
   },
-  "clipPlugins": {}
+  "clipPlugins": {
+    "qnye": [
+      "slub"
+    ],
+    "vzuc": [
+      "yali"
+    ],
+    "ecaa": [
+      "dusz"
+    ],
+    "shjl": [
+      "omhu"
+    ]
+  }
 }
