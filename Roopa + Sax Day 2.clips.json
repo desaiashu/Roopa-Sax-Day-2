@@ -272,9 +272,9 @@
       "id": "qnye",
       "trackId": "act",
       "name": "mic 11 [2026-07-07 212743].aif",
-      "startBeat": 532.5,
-      "lengthBeats": 427.5,
-      "offsetBeats": 532.5,
+      "startBeat": 532.75,
+      "lengthBeats": 427.25,
+      "offsetBeats": 532.75,
       "source": {
         "type": "Audio",
         "path": "samples/mic 11 [2026-07-07 212743].aif",
