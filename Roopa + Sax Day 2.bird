@@ -83,9 +83,9 @@ sec song
       'samples/BIJAN PONDEROSA Dimitri 2026  04 A Present.wav'
   trk 3 Roopa 05 |act
       lane 2
-        c 133:192 106:192 |qnye
+        c 133:48 106:336 |qnye
           'samples/mic 11 [2026-07-07 212743].aif'
-          o 133:192
+          o 133:48
           g 0.16
       lane 4
         c 142:0 93:0 |vzuc
