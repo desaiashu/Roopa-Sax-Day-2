@@ -332,9 +332,9 @@
       "id": "qont",
       "trackId": "act",
       "name": "mic 15 [2026-07-07 212800].aif",
-      "startBeat": 430.0,
-      "lengthBeats": 124.0,
-      "offsetBeats": 430.0,
+      "startBeat": 429.0,
+      "lengthBeats": 125.0,
+      "offsetBeats": 429.0,
       "source": {
         "type": "Audio",
         "path": "samples/mic 15 [2026-07-07 212800].aif",

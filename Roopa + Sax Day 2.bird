@@ -92,9 +92,9 @@ sec song
           'samples/mic 15 [2026-07-07 212800].aif'
           o 141:192
           g 0.09
-        c 107:192 31:0 |qont
+        c 107:96 31:96 |qont
           'samples/mic 15 [2026-07-07 212800].aif'
-          o 107:192
+          o 107:96
           g 0.09
       lane 5
         c 200:0 33:192 |cupf
