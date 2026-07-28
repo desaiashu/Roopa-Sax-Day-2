@@ -37,7 +37,7 @@
         "id": "act",
         "name": "Roopa 05",
         "trackType": "audio",
-        "auditionLane": null,
+        "auditionLane": 5,
         "takeLaneCount": 0,
         "audioFlipped": false,
         "dubState": "empty",
