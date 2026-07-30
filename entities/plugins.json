@@ -163,7 +163,8 @@
     "trackId": "lev",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
-    "enabled": true,
+    "enabled": false,
+    "disabledBy": "user",
     "state": {
       "inputGainDb": 0.0,
       "loCutFreq": 320.0,
