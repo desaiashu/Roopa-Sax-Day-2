@@ -191,7 +191,7 @@
       "driveTone": 0.0,
       "driveMix": 100.0,
       "outputGainDb": 0.0,
-      "bassMonoOn": 0.0,
+      "bassMonoOn": 1.0,
       "bassMonoFreq": 120.0,
       "compKnee": 6.0,
       "compScHpfOn": 0.0,
