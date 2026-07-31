@@ -19,12 +19,12 @@ tracks
   3 Roopa 05 |act
     type audio
     fx melodyne
-    fx melodyne
-    fx melodyne
-    fx melodyne
-    fx2 uaudio_ua_1176ln_rev_e
-    fx3 uaudio_teletronix_la-2a_silver
-    fx4 valhalla
+    fx2 melodyne
+    fx3 melodyne
+    fx4 melodyne
+    fx5 uaudio_ua_1176ln_rev_e
+    fx6 uaudio_teletronix_la-2a_silver
+    fx7 valhalla
     strip tivraStrip
   4 Backing 05 |lev
     type audio
