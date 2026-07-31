@@ -19,6 +19,7 @@ tracks
   3 Roopa 05 |act
     type audio
     fx melodyne
+    fx melodyne
     fx2 melodyne
     fx3 melodyne
     fx4 melodyne
