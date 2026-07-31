@@ -17,7 +17,7 @@
         "id": "ckh",
         "name": "Roopa 04",
         "trackType": "audio",
-        "auditionLane": null,
+        "auditionLane": 3,
         "takeLaneCount": 0,
         "audioFlipped": false,
         "dubState": "empty",
@@ -168,7 +168,7 @@
       "directMonitoring": false
     },
     "appearance": {
-      "theme": "system"
+      "theme": "dark"
     },
     "ai": {
       "aiComfort": 3,
