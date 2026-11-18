@@ -1,7 +1,6 @@
 {
   "name": "Roopa + Sax Day 2",
   "bpm": 120.0,
-  "key": "C major",
   "scale": {
     "division": "12tet",
     "system": "western",
@@ -103,13 +102,14 @@
     "rxx",
     "rgy"
   ],
+  "groups": {},
   "sections": {
     "qjq": {
       "id": "qjq",
       "name": "song",
       "startBeat": 0.0,
       "lengthBeats": 1120.0,
-      "key": null,
+      "scale": null,
       "activeVariation": 0,
       "variationCount": 0
     }
@@ -117,6 +117,19 @@
   "tempoMarkers": [],
   "keyMarkers": [],
   "timeSigMarkers": [],
+  "arrangements": [
+    {
+      "id": "arr-1",
+      "name": "Arrangement 1",
+      "trackIds": [],
+      "bird": "bird/arrangement-1.bird"
+    }
+  ],
   "spatialMode": false,
-  "rendererOutputMode": "binaural"
+  "rendererOutputMode": "binaural",
+  "speakerMaps": {},
+  "speakerLevels": {},
+  "speakerMutes": {},
+  "outputBusGains": {},
+  "outputBusMutes": {}
 }

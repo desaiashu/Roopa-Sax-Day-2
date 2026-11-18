@@ -2,7 +2,6 @@
   "metadata": {
     "id": "ttockr",
     "name": "Roopa + Sax Day 2",
-    "formatVersion": "2.0.0",
     "createdAt": "",
     "modifiedAt": ""
   },
@@ -13,7 +12,14 @@
     "bufferSize": 512
   },
   "trackAppearance": {},
+  "embeddedTemplates": {},
+  "videoFilePath": null,
+  "spaces": [
+    {
+      "id": "space-boyohh",
+      "view": "arrange"
+    }
+  ],
   "customEditors": {},
-  "scriptFxEditors": {},
-  "videoFilePath": null
+  "scriptFxEditors": {}
 }

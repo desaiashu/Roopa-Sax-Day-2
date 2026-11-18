@@ -82,5 +82,6 @@
   "samples/mic 8 [2026-07-07 212735].aif": {
     "sha256": "a4ed0c3592a676b4e557c10c3d7ac6ca2bb71a00d57bf7f4e6ab98810e26118f",
     "bytes": 80640054
-  }
+  },
+  "schemaVersion": 6
 }

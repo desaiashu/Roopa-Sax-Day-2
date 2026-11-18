@@ -2,6 +2,8 @@
   "ckh": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -9,11 +11,14 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "ugb": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -21,11 +26,14 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "act": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": true,
     "spatial": {
@@ -33,11 +41,14 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "lev": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": true,
     "spatial": {
@@ -45,6 +56,7 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   }
 }

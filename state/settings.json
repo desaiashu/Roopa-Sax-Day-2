@@ -21,7 +21,8 @@
     "vibeMode": false,
     "experienceLevel": 3,
     "defaultChannelStrip": null,
-    "pluginMode": "canvas"
+    "pluginMode": "canvas",
+    "editorMode": "audio"
   },
   "playback": {
     "previewVolume": 0.7
@@ -29,7 +30,8 @@
   "audioDevices": {
     "audioOutputDevice": "Default",
     "audioInputDevice": "None",
-    "masterOutputPair": 0
+    "masterOutputPair": 0,
+    "aggregateDevices": []
   },
   "hasApiKey": false
 }

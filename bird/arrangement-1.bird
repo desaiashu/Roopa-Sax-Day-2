@@ -9,41 +9,12 @@ arr
 tracks
   1 Roopa 04 |ckh
     type audio
-    fx uaudio_ua_1176ln_rev_e
-    fx2 uaudio_teletronix_la-2a_silver
-    fx3 valhalla
-    strip tivraStrip
   2 Backing 04 |ugb
     type audio
-    strip tivraStrip
   3 Roopa 05 |act
     type audio
-    fx melodyne
-    fx melodyne
-    fx2 melodyne
-    fx3 melodyne
-    fx4 melodyne
-    fx5 uaudio_ua_1176ln_rev_e
-    fx6 uaudio_teletronix_la-2a_silver
-    fx7 valhalla
-    strip tivraStrip
   4 Backing 05 |lev
     type audio
-    strip tivraStrip
-
-returns
-  0 Hall |rrz
-    fx valhalla
-    strip tivraStrip
-  1 Plate |rug
-    fx valhalla
-    strip tivraStrip
-  2 Delay |rxx
-    fx tube_delay
-    strip tivraStrip
-  3 Color |rgy
-    fx dist_tube-culture
-    strip tivraStrip
 
 sec song
   trk 1 Roopa 04 |ckh
